@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/React-studio/static/js/main.c21b576a.chunk.js",
+    "main.js.map": "/React-studio/static/js/main.c21b576a.chunk.js.map",
+    "runtime-main.js": "/React-studio/static/js/runtime-main.b4bfd811.js",
+    "runtime-main.js.map": "/React-studio/static/js/runtime-main.b4bfd811.js.map",
+    "static/js/2.3938623d.chunk.js": "/React-studio/static/js/2.3938623d.chunk.js",
+    "static/js/2.3938623d.chunk.js.map": "/React-studio/static/js/2.3938623d.chunk.js.map",
+    "static/js/3.50db4f97.chunk.js": "/React-studio/static/js/3.50db4f97.chunk.js",
+    "static/js/3.50db4f97.chunk.js.map": "/React-studio/static/js/3.50db4f97.chunk.js.map",
+    "index.html": "/React-studio/index.html",
+    "static/js/2.3938623d.chunk.js.LICENSE.txt": "/React-studio/static/js/2.3938623d.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/React-studio/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/React-studio/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.4b7cde7e.svg": "/React-studio/static/media/clock.4b7cde7e.svg",
+    "static/media/diaphragm.db801491.svg": "/React-studio/static/media/diaphragm.db801491.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/React-studio/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/React-studio/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home1.9836de69.png": "/React-studio/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/React-studio/static/media/home2.a65a4256.png",
+    "static/media/money.72da7c48.svg": "/React-studio/static/media/money.72da7c48.svg",
+    "static/media/teamwork.aa71db2e.svg": "/React-studio/static/media/teamwork.aa71db2e.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/React-studio/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/React-studio/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4bfd811.js",
+    "static/js/2.3938623d.chunk.js",
+    "static/js/main.c21b576a.chunk.js"
+  ]
+}
