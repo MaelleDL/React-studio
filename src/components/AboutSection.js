@@ -28,7 +28,7 @@ const AboutSection = () => {
                             true.
                         </motion.h2>
                     </Hide>
-                    <motion.p variants={fade}>Contact us for any patin couffin boudin et tout le tintsouin</motion.p>
+                    <motion.p variants={fade}>Contact us for anything.</motion.p>
                     <motion.button variants={fade}>Contact Us</motion.button>
                 </motion.div>
             </Description>
