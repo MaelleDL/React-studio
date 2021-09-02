@@ -1,1 +1,2 @@
-# A react portfolio look-like project made following Dev-Ed's Tuto
+# A portfolio look-like project made following Dev-Ed's Tuto
+## In react
